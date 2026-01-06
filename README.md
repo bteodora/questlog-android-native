@@ -1,7 +1,6 @@
 <div align="center">
   <img src="screenshots/questlog_logo_scaled.png" alt="QuestLog Core" height="150" style="filter: drop-shadow(0 0 15px rgba(0, 0, 0, 0.3));"/>
-  
-  <h1 style="font-family: 'Roboto', sans-serif; font-weight: 300; letter-spacing: 3px; text-transform: uppercase;">QUESTLOG</h1>
+
   <h3 style="color: #666; font-weight: 400; letter-spacing: 1px;">Gamified Productivity & Social RPG Platform for Android</h3>
 
   <p>
@@ -19,6 +18,8 @@
   </p>
 
   <p style="margin-top: 20px;">
+    <a href="Mobilne specifikacija.pdf"><strong>📄 Read the full Specification (PDF) »</strong></a>
+    <br>
     <a href="https://raw.githubusercontent.com/bteodora/e2-ma-tim04-2025/main/screenshots/Specifikacija%20projekta.pdf"><strong>📄 View Engineering Specification (PDF) »</strong></a>
     <span style="padding: 0 15px">|</span>
     <a href="#architecture-and-data-flow"><strong>🏛 Explore Architecture »</strong></a>
